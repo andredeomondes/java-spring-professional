@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a-componentes-de-Injecao-de-dependencia/a02-salary-java-spring/aula/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

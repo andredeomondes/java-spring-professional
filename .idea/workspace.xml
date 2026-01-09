@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa73569b-1f5d-4033-9aeb-09d12f3c446c" name="Changes" comment="COMPONENTES DE INJEÇÃO DE DEPENDÊNCIA - Inversão de Controle e Injeção de Dependência na Prática">
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/services/BrazilTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/salary-java.png" afterDir="false" />
+    <list default="true" id="fa73569b-1f5d-4033-9aeb-09d12f3c446c" name="Changes" comment="COMPONENTES DE INJEÇÃO DE DEPENDÊNCIA - Trocando a dependência sem abrir o componente pai">
+      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a02-anotacoes.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a-anotacoes.MD" beforeDir="false" afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a-anotacoes.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/app/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/app/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a-anotacoes.MD" beforeDir="false" afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-anotacoes.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-spring-professional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-spring-professional.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="382H0CRRVeyUH4ZF3C1KsQcybsR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,15 +36,45 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AulaApplication.executor": "Run",
     "Application.Program.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/andre/IdeaProjects/java-spring-professional/a-componentes-de-Injecao-de-dependencia",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AulaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andredeomondes.aula.aula.AulaApplication" />
+      <module name="java-spring-professional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andredeomondes.aula.aula.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AulaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,12 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1767992509431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="COMPONENTES DE INJEÇÃO DE DEPENDÊNCIA - Trocando a dependência sem abrir o componente pai">
+      <option name="closed" value="true" />
+      <created>1767992827608</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767992827608</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Componentes de Injeção de Dependencia - Exemplo didático" />
     <MESSAGE value="COMPONENTES DE INJEÇÃO DE DEPENDÊNCIA - Inversão de Controle e Injeção de Dependência na Prática" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMPONENTES DE INJEÇÃO DE DEPENDÊNCIA - Inversão de Controle e Injeção de Dependência na Prática" />
+    <MESSAGE value="COMPONENTES DE INJEÇÃO DE DEPENDÊNCIA - Trocando a dependência sem abrir o componente pai" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMPONENTES DE INJEÇÃO DE DEPENDÊNCIA - Trocando a dependência sem abrir o componente pai" />
   </component>
 </project>
