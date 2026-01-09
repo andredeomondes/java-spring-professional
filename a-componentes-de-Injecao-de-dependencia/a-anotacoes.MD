@@ -1,5 +1,7 @@
 #  SISTEMA x COMPONENTES
 
+![salary-java.png](salary-java.png)
+
 ---
 
 ## Sistema
