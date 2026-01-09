@@ -20,10 +20,13 @@ public class Program {
         double grossSalary = sc.nextDouble();
 
         Employee employee = new Employee(name, grossSalary);
-        SalaryService salaryService = new SalaryService();
+
+        TaxService taxService = new TaxService();
+        PensionService pensionService = new PensionService();
+        SalaryService salaryService = new SalaryService(taxService, pensionService);
 
         double netSalary = salaryService.netSalary(employee);
-        System.out.printf("Salário liquido = %.2f%n", netSalary);
+        System.out.printf("Salario liquido = %.2f%n", netSalary);
 
 
         sc.close();

@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa73569b-1f5d-4033-9aeb-09d12f3c446c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a-anotacoes.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/a01-salary-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/app/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/services/PensionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/services/SalaryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/services/TaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a01-exemplo-didatico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-spring-professional.iml" afterDir="false" />
+    <list default="true" id="fa73569b-1f5d-4033-9aeb-09d12f3c446c" name="Changes" comment="Componentes de Injeção de Dependencia - Exemplo didático">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a-anotacoes.MD" beforeDir="false" afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a-anotacoes.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/app/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/app/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/services/SalaryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/a-componentes-de-Injecao-de-dependencia/a01-salary-java/src/services/SalaryService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +60,27 @@
       <option name="presentableId" value="Default" />
       <updated>1767990523317</updated>
     </task>
+    <task id="LOCAL-00001" summary="Componentes de Injeção de Dependencia - Exemplo didático">
+      <option name="closed" value="true" />
+      <created>1767991469586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767991469586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Componentes de Injeção de Dependencia - Exemplo didático">
+      <option name="closed" value="true" />
+      <created>1767991476894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767991476894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Componentes de Injeção de Dependencia - Exemplo didático" />
+    <option name="LAST_COMMIT_MESSAGE" value="Componentes de Injeção de Dependencia - Exemplo didático" />
   </component>
 </project>
